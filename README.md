@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Haryaka787
-- 👀 I’m interested in programming and math
-- 🌱 I’m currently learning programming and math tho
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @hurtedcat
+- 👀 Interested in backend development & math 
+- 🖥️ Currently learning Java Spring Boot & data manipulation
+- 😿 A backend dev who's always in the shadows  
+- ✨ Dreaming to work at an airport & fly to Cebu  
+- 🗿 Backend Mafia, coding silently but deadly
+- ☕I learn **Java** as my first programming languange
+fun fact (you guys can be my mentor
 
 <!---
 Haryaka787/Haryaka787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
